@@ -11,7 +11,7 @@
                 <element inactive_on_update="false" label="other" sequence="6" value="other"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_date" read_only="true" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="cmdb_ci_computer" label="Item Type" max_length="40" name="item_type" type="string">
             <choice>
                 <element inactive_on_update="false" label="Laptop" sequence="0" value="cmdb_ci_computer"/>

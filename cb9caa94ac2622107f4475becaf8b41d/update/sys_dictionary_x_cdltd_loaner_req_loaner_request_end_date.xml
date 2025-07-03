@@ -33,7 +33,7 @@
         <name>x_cdltd_loaner_req_loaner_request</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Loaner Request">cb9caa94ac2622107f4475becaf8b41d</sys_scope>
         <sys_update_name>sys_dictionary_x_cdltd_loaner_req_loaner_request_end_date</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-02 10:10:55</sys_updated_on>
+        <sys_updated_on>2025-07-03 08:52:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
